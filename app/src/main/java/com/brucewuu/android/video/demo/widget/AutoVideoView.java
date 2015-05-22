@@ -13,6 +13,7 @@ public class AutoVideoView extends VideoView {
     private int videoWidth;
     private int videoHeight;
 
+
     public AutoVideoView(Context context) {
         this(context, null);
     }

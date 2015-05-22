@@ -22,6 +22,7 @@
         <item name="android:windowFullscreen">true</item>
         <item name="android:windowContentOverlay">@null</item>
         <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@android:color/background_dark</item>
     </style>
 
 </resources>

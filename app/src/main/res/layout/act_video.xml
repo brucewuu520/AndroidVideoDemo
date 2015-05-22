@@ -74,9 +74,9 @@
             android:layout_toLeftOf="@+id/total_time"
             android:layout_toRightOf="@+id/play_time"
             android:max="100"
-            android:maxHeight="10dip"
-            android:minHeight="10dip"
-            android:progress="0"
+            android:maxHeight="3dp"
+            android:minHeight="3dp"
+            android:progress="10"
             android:thumbOffset="0dp" />
 
         <com.brucewuu.android.video.demo.widget.view.playpause.PlayPauseView
